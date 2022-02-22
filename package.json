@@ -1,0 +1,17 @@
+{
+  "name": "process-thread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1"
+  }
+}
